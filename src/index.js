@@ -1,4 +1,4 @@
-var datasetUtilities = require('datasetUtilities');
+var datasetUtilities = require('./datasetUtilities');
 
 var DatasetPlugin = function(pluginArguments) {
   var Plugin = pluginArguments.Plugin;
